@@ -16,7 +16,7 @@ temps de réponse que de scalabilité, en collectant des
 - Consommation abusive de ressources aussi bien CPU que mémoire
 - Temps d'exécution excessifs
 - Détection de points de contentions
-- Observations des échanges inter-applicatifs ou avec les
+- Observation des échanges inter-applicatifs ou avec les
 systèmes de gestion de persistance
 
 ## Programme

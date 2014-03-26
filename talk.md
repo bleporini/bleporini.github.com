@@ -13,6 +13,7 @@ group: "navigation"
 - 16/01/2014 IppEvent (Paris): [JProfiler, un ami qui vous veut du bien](http://blog.ippon.fr/2014/01/10/ippevent-16-janvier-jprofiler-un-ami-qui-vous-veut-du-bien/)
 - 23/01/2014 PerfUG (Paris): [PerfUG janvier 2014 : JProfiler](http://tv.octo.com/videos/perfug-janvier-2014-jprofiler/)
 - 21/03/2014 MarsJUG (Marseille) : [Trouvez les problématiques de performances avec JProfiler](http://www.eventbrite.fr/e/billets-trouvez-les-problematiques-de-performances-avec-jprofiler-10816625819?aff=eorg)
+- 16/04/2014 Devoxx France (Paris): [Tout ce que vous avez toujours voulu savoir de la JVM sans jamais oser lui demander en ligne de commande](http://cfp.devoxx.fr/devoxxfr2014/talk/MOO-402/Tout%20ce%20que%20vous%20avez%20toujours%20voulu%20savoir%20de%20la%20JVM%20sans%20jamais%20oser%20lui%20demander%20en%20ligne%20de%20commande)
 
 ## Blog
 

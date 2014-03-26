@@ -17,7 +17,7 @@ l'application.
 L'audit se découpe en deux volets:
 
 **Étude statique**:
-- Examen de la couche de persistence: ORM, gestion des transactions, methodes d'interrogation
+- Examen de la couche de persistance: ORM, gestion des transactions, méthodes d'interrogation
 - Graphe de dépendances
 - Recherche d'anti-patterns courants
 - Qualité des tests
