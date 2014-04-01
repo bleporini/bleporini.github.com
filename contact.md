@@ -4,4 +4,4 @@ title : Contact
 group: navigation
 ---
 
-Vous pouvez me contacter par mail à l'adresse 'mon prénom' arobase 'mon nom'.net .
+Vous pouvez me contacter par mail à l'adresse <brice@leporini.net> .
